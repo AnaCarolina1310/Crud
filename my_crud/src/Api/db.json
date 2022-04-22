@@ -1,0 +1,34 @@
+{
+  "clientes": [
+    {
+      "nombre": "Sandra Esteban",
+      "email": "sandraesteban@gmail.com",
+      "id": 1650643282848
+    },
+    {
+      "nombre": "Carina Rolla",
+      "email": "carinarolla@gmail.com",
+      "id": 1650643472130
+    },
+    {
+      "nombre": "Maria Vazquez",
+      "email": "mariavazquez@gmail.com",
+      "id": 1650644040773
+    },
+    {
+      "nombre": "Ramon Pucheta",
+      "email": "ramonpucheta@gmail.com",
+      "id": 1650644060030
+    },
+    {
+      "nombre": "Lucas Farias",
+      "email": "lucasfarias@gmail.com",
+      "id": 1650644085128
+    },
+    {
+      "nombre": "carolina",
+      "email": "carinarolla@gmail.com",
+      "id": 1650645995526
+    }
+  ]
+}

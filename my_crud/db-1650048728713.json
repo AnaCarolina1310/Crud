@@ -1,0 +1,29 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nombre": "Maria Vazquez",
+      "email": "mariavazquez@gmail.com"
+    },
+    {
+      "id": 2,
+      "nombre": "Ramon Pucheta",
+      "email": "ramonpucheta@gmail.com"
+    },
+    {
+      "id": 3,
+      "nombre": "Lucas Farias",
+      "email": "lucasfarias@gmail.com"
+    },
+    {
+      "id": 4,
+      "nombre": "Victor Cancini",
+      "email": "victorcancini@gmail.com"
+    },
+    {
+      "id": 5,
+      "nombre": "Paola Bracho",
+      "email": "paolabracho@gmail.com"
+    }
+  ]
+}
